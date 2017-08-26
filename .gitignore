@@ -1,0 +1,15 @@
+*.a
+*.o
+*.qm
+build/
+debug/
+release/
+Makefile*
+qrc_bitcoin.cpp
+gostium-qt
+gostiumd
+*.pro.user
+.qmake.stash
+gostium-qt_plugin_import.cpp
+object_script.gostium-qt.Debug
+object_script.gostium-qt.Release
